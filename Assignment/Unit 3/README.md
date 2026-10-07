@@ -615,8 +615,7 @@ After completing this assignment, the student should be able to:
 
 ## 👨‍💻 Author
 
-**Lokesh**
+**Aman sidar**
 
 MCA Student
-
 Assignment: Unit 3 — MongoDB Aggregation Pipeline

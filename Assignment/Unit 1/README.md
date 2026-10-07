@@ -257,8 +257,7 @@ The main objective of this project is to demonstrate the use of:
 
 ## 👨‍💻 Author
 
-**Lokesh Sahu**
-
+**Aman sidar**
 ### Project
 
 **Node.js CLI — Word Frequency Analyzer**

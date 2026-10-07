@@ -90,9 +90,6 @@ SMTP_PASS=...
 ```bash
 npm start
 ```
-
----
-
 ## Key Concepts
 
 - Authentication vs Authorization
@@ -105,4 +102,4 @@ npm start
 
 ## 👨‍💻 Author
 
-**Lokesh Sahu**
+**Aman sidar**
